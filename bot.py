@@ -24,7 +24,7 @@ def keep_alive():
     t.start()
 
 # --- 2. الإعدادات ---
-API_TOKEN = '8612948095:AAFQmtyj-Ke6e3bxEUsHMPC5b28W4EcZFpY' 
+TOKEN = "ZFpY8689609657:AAHN5Gqb0rwXi52zweHJ34LecR5vFgehuMI"
 CH_ID = -1003982280092  
 CH_LINK = 'https://t.me/+TWfwB6wfdNw5YWVk'
 bot = telebot.TeleBot(API_TOKEN)
